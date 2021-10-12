@@ -1,0 +1,16 @@
+# Why we need a DataBase Management System (DBMS) instead of a spreadsheet ? 
+Databases store information more efficiently. Therefore, it can process large amounts of data that cannot be managed in the spreadsheet. 
+Spreadsheets have record limitations, while databases do not. Spreadsheets may require large hard drive space to store data.
+
+
+
+# What are the advantages / disadvantages of using a DBMS (and specifically Postgres) compared to a spreadsheet (specifically MS Excel) ? 
+advantages: 
+-more efficient storage
+-registration unlimited
+-handle large information
+
+disadvantages: 
+-failure of the database
+-high cost
+-technical personnel required
